@@ -1,5 +1,5 @@
 {
   "devDependencies": {
-    "tap": "^14.1.7"
+    "tap": "^14.11.0"
   }
 }
